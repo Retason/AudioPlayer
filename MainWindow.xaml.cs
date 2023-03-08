@@ -1,37 +1,24 @@
-﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Timers;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Forms;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using ListBox = System.Windows.Controls.ListBox;
 using Timer = System.Timers.Timer;
 
 namespace AudioPlayr
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
+        private bool isPause = false;
         private Timer timer = new Timer(100);
         private string folderPath;
         private List<string> files = new List<string>();
         private int position = 0;
-        // private bool IsPaused = false;
+        private bool isRandom = false;
         private bool IsRepeat = false;
         public MainWindow()
         {
@@ -58,20 +45,22 @@ namespace AudioPlayr
         private void button_Click(object sender, RoutedEventArgs e)
         {
             FolderBrowserDialog dialog = new FolderBrowserDialog();
-            dialog.SelectedPath = @"K:\Projects\teach\retas\AudioPlayr\AudioPlayr\Ливадный Андрей - Борт 618 (читает Scaners)";
             if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
                 folderPath = dialog.SelectedPath;
-                DirectoryInfo directoryInfo = new DirectoryInfo(folderPath);
-                directoryInfo.GetFiles("*.mp3");
-                foreach (var file in directoryInfo.GetFiles())
-                    files.Add(file.FullName);
-                printLBItems();
-                Play();
+                Load();
             }
-
         }
+        private void Load()
+        {
 
+            files.Clear();
+            DirectoryInfo directoryInfo = new DirectoryInfo(folderPath);
+            foreach (var file in directoryInfo.GetFiles("*.mp3"))
+                files.Add(file.FullName);
+            printLBItems();
+            Play();
+        }
         private void printLBItems()
         {
             LB_Music.Items.Clear();
@@ -81,34 +70,30 @@ namespace AudioPlayr
                 {
                     Content = file.Split('\\').Last(),
                 };
-                item.Selected += Item_Selected;
                 LB_Music.Items.Add(item);
             }
             LB_Music.SelectedIndex = 0;
             position = 0;
         }
-        private void Item_Selected(object sender, RoutedEventArgs e)
-        {
-            if (LB_Music.SelectedIndex >= 0)
-            {
-                position = LB_Music.SelectedIndex;
-                Play();
-            }
-        }
-
         private void Next()
         {
-            if (position >= files.Count - 1)
-                position = 0;
-            else
-                position++;
+            {
+                if (position >= files.Count - 1)
+                    position = 0;
+                else
+                    position++;
 
-            media.Source = new Uri(files[position]);
-            SL_time.Maximum = media.NaturalDuration.TimeSpan.TotalSeconds;
-            SL_time.Value = 0;
-            LB_Music.SelectedIndex = position;
-            media.Play();
+                media.Source = new Uri(files[position]);
+                media.Play();
+                while (media.NaturalDuration == Duration.Automatic)
+                {
+                    Thread.Sleep(10);
+                }
+                SL_time.Maximum = media.NaturalDuration.TimeSpan.TotalSeconds;
+                SL_time.Value = 0;
+                LB_Music.SelectedIndex = position;
 
+            }
         }
         private void Back()
         {
@@ -117,10 +102,14 @@ namespace AudioPlayr
             else
                 position--;
             media.Source = new Uri(files[position]);
+            media.Play();
+            while (media.NaturalDuration == Duration.Automatic)
+            {
+                Thread.Sleep(10);
+            }
             SL_time.Maximum = media.NaturalDuration.TimeSpan.TotalSeconds;
             SL_time.Value = 0;
             LB_Music.SelectedIndex = position;
-            media.Play();
         }
         private void Play()
         {
@@ -128,14 +117,12 @@ namespace AudioPlayr
             {
                 media.Source = new Uri(files[position]);
                 SL_time.Value = 0;
+                media.Play();
                 while (media.NaturalDuration == Duration.Automatic)
                 {
                     Thread.Sleep(10);
-                    media.Play();
-
                 }
                 SL_time.Maximum = media.NaturalDuration.TimeSpan.TotalSeconds;
-
             }
         }
         private void button1_Click(object sender, RoutedEventArgs e)
@@ -148,30 +135,31 @@ namespace AudioPlayr
             Next();
         }
 
-        private void button1_Copy1_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void button1_Copy2_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
 
         private void button1_Copy3_Click(object sender, RoutedEventArgs e)
         {
             media.Stop();
-            string temp;
-            int rndIndex = 0;
-            var rnd = new Random();
-            for (int i = 0; i < files.Count; i++)
+            isRandom = !isRandom;
+            if (isRandom)
             {
-                rndIndex = rnd.Next(0,files.Count);
-                temp = files[i];
-                files[i] = files[rndIndex];
-                files[rndIndex] = temp;
+                string temp;
+                int rndIndex = 0;
+                var rnd = new Random();
+                for (int i = 0; i < files.Count; i++)
+                {
+                    rndIndex = rnd.Next(0, files.Count);
+                    temp = files[i];
+                    files[i] = files[rndIndex];
+                    files[rndIndex] = temp;
+                }
+            }
+            else
+            {
+                Load();
             }
             printLBItems();
+            position = 0;
+            Play();
         }
 
         private void SL_time_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
@@ -227,9 +215,23 @@ namespace AudioPlayr
             timer.Stop();
         }
 
-        private void LB_Music_Selected(object sender, RoutedEventArgs e)
+        private void BTN_Play_Copy_Click(object sender, RoutedEventArgs e)
         {
-           
+            isPause = !isPause;
+            if (isPause)
+                media.Pause();
+            else
+                media.Play();
+        }
+
+        private void LB_Music_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (LB_Music.SelectedIndex >= 0)
+            {
+                position = LB_Music.SelectedIndex;
+                Play();
+            }
+
         }
     }
 }
