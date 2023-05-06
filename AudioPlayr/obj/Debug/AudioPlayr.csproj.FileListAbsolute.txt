@@ -1,0 +1,348 @@
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.exe.config
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.exe
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.AssemblyReference.cache
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.SuggestedBindingRedirects.cache
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\MainWindow.g.cs
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\App.g.cs
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.cache
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.lref
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\MainWindow.baml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.g.resources
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.Properties.Resources.resources
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.GenerateResource.cache
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.CoreCompileInputs.cache
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.exe
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+K:\Projects\teach\retas\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.CopyComplete
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.exe.config
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.exe
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\AudioPlayr.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.AssemblyReference.cache
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.SuggestedBindingRedirects.cache
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\MainWindow.g.cs
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\App.g.cs
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.cache
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.lref
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\MainWindow.baml
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.g.resources
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.Properties.Resources.resources
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.GenerateResource.cache
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.CoreCompileInputs.cache
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.csproj.CopyComplete
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.exe
+C:\Users\vi\Downloads\Telegram Desktop\AudioPlayr\AudioPlayr\obj\Debug\AudioPlayr.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\AudioPlayr.exe.config
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\AudioPlayr.exe
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\AudioPlayr.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Retas\Desktop\qwert\AudioPlayr\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.csproj.AssemblyReference.cache
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\MainWindow.g.cs
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\App.g.cs
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.cache
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr_MarkupCompile.lref
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\MainWindow.baml
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.g.resources
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.Properties.Resources.resources
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.csproj.GenerateResource.cache
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.csproj.CoreCompileInputs.cache
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.csproj.CopyComplete
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.exe
+C:\Users\Retas\Desktop\qwert\AudioPlayr\obj\Debug\AudioPlayr.pdb
